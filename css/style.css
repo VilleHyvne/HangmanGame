@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+.showWord {
+
+    text-align: center;
+}
+
+.letter {
+    width: 10px;
+    padding: 20px;
+    display:inline-block;
+}
+
+.userinputs {
+    text-align: center;
+    margin-top: 5%;
+    
+}
+
+.userInfo {
+    font-size: 10mm;
+}
+
+#resetGamebtn {
+    margin-top: 2%;
+    width: 100px;
+    height: 45px;
+    font-size: 25px;
+}
+
+
+
+
+
